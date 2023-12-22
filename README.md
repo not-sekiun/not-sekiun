@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img alt="Language Logos Right Pane" height="50%" src="https://skillicons.dev/icons?i=python,cpp,go,rust,neovim,vscode,ai,ps,pr" size/>
+    <img alt="Language Logos Right Pane" height="30%" src="https://skillicons.dev/icons?i=python,cpp,go,rust,neovim,vscode,ai,ps,pr" size/>
   </a>
 </p>
 
