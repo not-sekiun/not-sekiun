@@ -1,4 +1,9 @@
 <p align="center">
+**Software engineer ⨯ music producer ⨯ visual artist**
+</p>
+
+
+<p align="center">
   <a href="https://skillicons.dev">
     <img alt="Language Logos Right Pane" src="https://skillicons.dev/icons?i=python,cpp,go,rust,neovim,vscode,ai,ps,pr" />
   </a>
