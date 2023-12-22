@@ -1,4 +1,4 @@
-<p align="right">
+<p align="center">
   <a href="https://skillicons.dev">
     <img alt="Language Logos Right Pane" src="https://skillicons.dev/icons?i=python,cpp,go,rust" />
   </a>
