@@ -19,6 +19,8 @@ jobs:
         with:
           filename: metrics-left-pane.svg
           plugin_achievements: yes
+          plugin_topics: yes
+          plugin_topics_mode: icons
           token: ${{ secrets.METRICS_TOKEN }}
       - name: Metrics Right Pane
         uses: lowlighter/metrics@latest
