@@ -9,9 +9,6 @@
   </a>
 </p>
 
-Hi, I go by Sekiun on the internet. I'm mainly interested in cybersecurity and artificial intelligence. On the side, I like to write electronic music and do visual art.
+Hi, I go by Sekiun on the internet. I'm a self-taught software engineer who is mainly interested in cybersecurity and artificial intelligence. On the side, I like to write electronic music and create visual art. I'm currently focused on writing C2 frameworks, learning low-level malware creation, and teaching myself anti-analysis techniques. When I'm not doing any of that I'm pushing for diamond on my solo que valorant account.
 
-<details>
-  <summary>Github Metrics</summary>
-</details>
 <img alt="Metrics Left Pane" src="/metrics-left-pane.svg"><img alt="Metrics Left Pane" src="/metrics-right-pane.svg">
