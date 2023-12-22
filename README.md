@@ -5,19 +5,7 @@
 </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img alt="Language Logos Right Pane" height="100%" src="https://skillicons.dev/icons?i=python,cpp,go,rust"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img alt="Language Logos Right Pane" height="100%" src="https://skillicons.dev/icons?i=neovim,vscode"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img alt="Language Logos Right Pane" height="100%" src="https://skillicons.dev/icons?i=ai,ps,pr"/>
+    <img alt="Language Logos Right Pane" height="100%" src="https://skillicons.dev/icons?i=python,cpp,go,rust,neovim,vscode,ai,ps,pr"/>
   </a>
 </p>
 
