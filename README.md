@@ -13,3 +13,5 @@ Hi, I go by *Sekiun* on the internet. I'm a self-taught software engineer who is
 
 <img align="left" alt="Metrics Left Pane" width="395" src="/metrics-left-pane.svg">
 <img align="right" alt="Metrics Right Pane" width="395" src="/metrics-right-pane.svg">
+<img align="right" alt="Illustration Right Pane" width="395" src="/illustration-right-pane.svg">
+<p align="center">Latest illustration</p>
