@@ -1,6 +1,6 @@
 <h1 align="center">Sekiun | せきうん (lit: Cumulus clouds) | ⋆｡˚ ☁︎ ˚｡⋆｡˚☽˚｡⋆  </h1>
 
-<h3 align="center">
+<h1 align="center">
   Software Engineer • Music Producer • Visual Artist
 </h3>
 <p align="center">
