@@ -1,7 +1,7 @@
 <h1 align="center">Sekiun | せきうん (lit: Cumulus clouds)</h1>
 
 <p align="center">
-  <i>Software Engineer • Music Producer • Visual Artist</i>
+  Software Engineer • Music Producer • Visual Artist
 </p>
 
 <p align="center">
