@@ -27,6 +27,7 @@ jobs:
         with:
           filename: metrics-right-pane.svg
           base: ""
+          config_order: music, steam, fortune
           plugin_music: yes
           plugin_music_provider: youtube
           plugin_music_playlist: ${{ secrets.YOUTUBE_MUSIC_PLAYLIST }}
