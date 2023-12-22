@@ -1,6 +1,4 @@
-<p align="center">
-  <h1>Software engineer ⨯ music producer ⨯ visual artist</h1>
-</p>
+<h1 align="center">Software engineer ⨯ music producer ⨯ visual artist</h1>
 
 <p align="center">
   <a href="https://skillicons.dev">
