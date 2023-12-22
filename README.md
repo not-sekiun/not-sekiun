@@ -1,5 +1,9 @@
 <h1 align="center">Sekiun | せきうん (lit: Cumulus clouds)</h1>
-<i align="center">Software Engineer • Music Producer • Visual Artist</i>
+
+<p align="center">
+  <i>Software Engineer • Music Producer • Visual Artist</i>
+</p>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img alt="Language Logos Right Pane" height="50%" src="https://skillicons.dev/icons?i=python,cpp,go,rust,neovim,vscode,ai,ps,pr" size/>
