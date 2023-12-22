@@ -6,4 +6,4 @@
   </a>
 </p>
 
-<img alt="Metrics Left Pane" src="/metrics-left-pane.svg"><img alt="Metrics Left Pane" src="/metrics-left-pane.svg">
+<img alt="Metrics Left Pane" src="/metrics-left-pane.svg"><img alt="Metrics Left Pane" src="/metrics-right-pane.svg">
