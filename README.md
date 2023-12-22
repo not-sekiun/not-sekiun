@@ -8,7 +8,8 @@
     <img alt="Language Logos Right Pane" height="100%" src="https://skillicons.dev/icons?i=python,cpp,go,rust,neovim,vscode,ai,ps,pr"/>
   </a>
 </p>
-<i>Hi, I go by Sekiun on the internet. I'm mainly interested in cybersecurity and artificial intelligence. On the side, I like to write electronic music and draw anime girls.</i>
+
+> Hi, I go by Sekiun on the internet. I'm mainly interested in cybersecurity and artificial intelligence. On the side, I like to write electronic music and draw anime girls.
 
 <br>
 
