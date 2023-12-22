@@ -5,7 +5,7 @@
 </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img alt="Language Logos Right Pane" height="100%" src="https://skillicons.dev/icons?i=python,cpp,go,rust,linux,git,powershell,neovim,vscode,ai,ps,pr"/>
+    <img alt="Language Logos Right Pane" height="100%" src="https://skillicons.dev/icons?i=python,cpp,go,rust,fastapi,linux,git,powershell,neovim,vscode,ai,ps,pr"/>
   </a>
 </p>
 
