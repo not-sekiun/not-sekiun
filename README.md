@@ -10,7 +10,7 @@
   </a>
 </p>
 
-Hi, I go by Sekiun on the internet. I'm mainly interested in cybersecurity and artificial intelligence. On the side I like to write electronic music and draw anime girls.
+<i>Hi, I go by Sekiun on the internet. I'm mainly interested in cybersecurity and artificial intelligence. On the side, I like to write electronic music and draw anime girls.</i>
 
 <details>
   <summary>Github Metrics</summary>
