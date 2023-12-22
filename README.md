@@ -1,8 +1,8 @@
 <h1 align="center">Sekiun | せきうん (lit: Cumulus clouds) | ⋆｡˚ ☁︎ ˚｡⋆｡˚☽˚｡⋆  </h1>
 
-<p align="center">
+<h3 align="center">
   Software Engineer • Music Producer • Visual Artist
-</p>
+</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
