@@ -9,7 +9,7 @@
   </a>
 </p>
 
->Hi, I go by Sekiun on the internet. I'm mainly interested in cybersecurity and artificial intelligence. On the side, I like to write electronic music and do visual art.
+> Hi, I go by Sekiun on the internet. I'm mainly interested in cybersecurity and artificial intelligence. On the side, I like to write electronic music and do visual art.
 
 <details>
   <summary>Github Metrics</summary>
