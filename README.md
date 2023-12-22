@@ -1,7 +1,5 @@
 <h1 align="center">Sekiun | せきうん (lit: Cumulus clouds) | ⋆｡˚ ☁︎ ˚｡⋆｡˚☽˚｡⋆  </h1>
 
-> cogito ergo sum
-
 <h3 align="center">
   Software Engineer • Music Producer • Visual Artist
 </h3>
