@@ -10,6 +10,10 @@
   </a>
 </p>
 
-Hi, I go by Sekiun on the internet.
+Hi, I go by Sekiun on the internet. I'm mainly interested in cybersecurity and artificial intelligence. On the side I like to write electronic music and draw anime girls.
+
+<details>
+  <summary>Github Metrics</summary>
+</details>
 
 <img alt="Metrics Left Pane" src="/metrics-left-pane.svg"><img alt="Metrics Left Pane" src="/metrics-right-pane.svg">
