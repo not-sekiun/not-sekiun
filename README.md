@@ -6,7 +6,5 @@
   </a>
 </p>
 
-<p align="left">
-  <img alt="Metrics Left Pane" src="/metrics-left-pane.svg">
-</p>
-
+<img alt="Metrics Left Pane" src="/metrics-left-pane.svg">
+<img alt="Metrics Left Pane" src="/metrics-left-pane.svg">
