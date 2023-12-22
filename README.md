@@ -1,6 +1,7 @@
-<h1 align="center">Sekiun | せきうん (lit: "Cumulus clouds")</h1>
-Software Engineer • Music Producer • Visual Artist
-<br></br>
+<h1 align="center">Sekiun | せきうん (lit: Cumulus clouds)</h1>
+<i align="center">Software Engineer • Music Producer • Visual Artist</i>
+
+<br>
 
 <p align="center">
   <a href="https://skillicons.dev">
