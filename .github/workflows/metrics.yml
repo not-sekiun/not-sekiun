@@ -14,7 +14,9 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Metrics left pane
+        uses: lowlighter/metrics@latest
         with:
+          filename: metrics-left-pane.svg
           plugin_achievements: true
           token: ${{ secrets.METRICS_TOKEN }}
