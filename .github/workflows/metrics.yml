@@ -31,7 +31,7 @@ jobs:
           plugin_music_provider: youtube
           plugin_music_playlist: ${{ secrets.YOUTUBE_MUSIC_PLAYLIST }}
           plugin_music_token: ${{ secrets.YOUTUBE_MUSIC_TOKEN }}
-          plugin_music_limit: 10
+          plugin_music_limit: 12
           plugin_steam: yes
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam_user: ${{ secrets.STEAM_ID }}
