@@ -1,11 +1,23 @@
 <h1 align="center">Sekiun | せきうん (lit: Cumulus clouds) | ⋆｡˚ ☁︎ ˚｡⋆｡˚☽˚｡⋆  </h1>
 
-<h2 align="center">
+<h3 align="center">
   Software Engineer • Music Producer • Visual Artist
 </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img alt="Language Logos Right Pane" height="100%" src="https://skillicons.dev/icons?i=python,cpp,go,rust,neovim,vscode,ai,ps,pr"/>
+    <img alt="Language Logos Right Pane" height="100%" src="https://skillicons.dev/icons?i=python,cpp,go,rust"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img alt="Language Logos Right Pane" height="100%" src="https://skillicons.dev/icons?i=neovim,vscode"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img alt="Language Logos Right Pane" height="100%" src="https://skillicons.dev/icons?i=ai,ps,pr"/>
   </a>
 </p>
 
