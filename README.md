@@ -1,5 +1,7 @@
 <h1 align="center">Sekiun | せきうん (lit: Cumulus clouds) | ⋆｡˚ ☁︎ ˚｡⋆｡˚☽˚｡⋆  </h1>
 
+> cogito ergo sum
+
 <h3 align="center">
   Software Engineer • Music Producer • Visual Artist
 </h3>
@@ -9,7 +11,7 @@
   </a>
 </p>
 
-> Hi, I go by Sekiun on the internet. I'm mainly interested in cybersecurity and artificial intelligence. On the side, I like to write electronic music and do visual art.
+Hi, I go by Sekiun on the internet. I'm mainly interested in cybersecurity and artificial intelligence. On the side, I like to write electronic music and do visual art.
 
 <details>
   <summary>Github Metrics</summary>
