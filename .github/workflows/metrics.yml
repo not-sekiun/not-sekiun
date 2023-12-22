@@ -14,9 +14,19 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Metrics left pane
+      - name: Metrics Left Pane
         uses: lowlighter/metrics@latest
         with:
           filename: metrics-left-pane.svg
-          plugin_achievements: true
+          plugin_achievements: yes
+          token: ${{ secrets.METRICS_TOKEN }}
+      - name: Metrics Right Pane
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics-right-pane.svg
+          base: ""
+          plugin_music: yes
+          plugin_music_playlist: ${{ secrets.YOUTUBE_MUSIC_PLAYLIST }}
+          plugin_music_token: ${{ secrets.YOUTUBE_MUSIC_TOKEN }}
+          plugin_music_limit: 5
           token: ${{ secrets.METRICS_TOKEN }}
