@@ -10,7 +10,7 @@
   </a>
 </p>
 
-Hi, I go by *Sekiun* on the internet. I'm a self-taught software engineer who is mainly interested in cybersecurity and artificial intelligence. On the side, I like to write electronic music and create visual art. I'm currently focused on writing C2 frameworks, learning low-level malware creation, and teaching myself anti-analysis/evasion techniques. For any inquiries you can contact me on [Discord](https://discord.com/) at [![sekiun.](https://img.shields.io/badge/sekiun.-black?logo=discord&logoColor=white)](https://discordapp.com/users/395192115996655627) (_include_ the period)
+Hi, I'm Angus but I like to go by *Sekiun* on the internet. I'm a self-taught software engineer who is mainly interested in cybersecurity and artificial intelligence. On the side, I like to write electronic music and create visual art. I'm currently focused on writing C2 frameworks, learning low-level malware creation, and teaching myself anti-analysis/evasion techniques. For any inquiries you can contact me on [Discord](https://discord.com/) at [![sekiun.](https://img.shields.io/badge/sekiun.-black?logo=discord&logoColor=white)](https://discordapp.com/users/395192115996655627) (_include_ the period)
 
 <img align="left" alt="Metrics Left Pane" width="395" src="/metrics-left-pane.svg">
 <img align="right" alt="Metrics Right Pane" width="395" src="/metrics-right-pane.svg">
