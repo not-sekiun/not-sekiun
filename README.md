@@ -1,3 +1,5 @@
+![kizumonogatari-cherry-blossoms.jpg](kizumonogatari-cherry-blossoms.jpg)
+
 <h1 align="center">Sekiun | せきうん (lit. 'Cumulus clouds') | ⋆｡˚ ☁︎ ˚｡⋆｡˚☽˚｡⋆  </h1>
 
 <h3 align="center">
