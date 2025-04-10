@@ -39,3 +39,5 @@ jobs:
           plugin_steam_user: ${{ secrets.STEAM_ID }}
           plugin_fortune: yes
           token: ${{ secrets.METRICS_TOKEN }}
+      - name: Hotfix achievements API deprecation
+        uses: stalomeow/metrics@projects-v2 # lowlighter/metrics@latest
