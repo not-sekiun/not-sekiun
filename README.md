@@ -3,7 +3,7 @@
 <h1 align="center">Sekiun | せきうん (lit. 'Cumulus clouds') | ⋆｡˚ ☁︎ ˚｡⋆｡˚☽˚｡⋆  </h1>
 
 <h3 align="center">
-  Software Engineer • Visual Artist • Songwriter  
+  Software Engineer • Visual Artist • Music Producer  
 </h3>
 
 <p align="center">
